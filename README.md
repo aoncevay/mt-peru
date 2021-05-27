@@ -1,6 +1,6 @@
 # Peru is Multilingual, Its Machine Translation Should Be Too?
 
-(Under construction) This repository will include the models and new evaluation dataset (Kirika) for translation between Spanish and Shipibo-Konibo. You can check all the details in the [poster](https://github.com/aoncevay/mt-peru/peru-mt-poster.pdf) or in the [paper](https://www.aclweb.org/anthology/2021.americasnlp-1.22).
+(Under construction) This repository will include the models and new evaluation dataset (Kirika) for translation between Spanish and Shipibo-Konibo. You can check all the details in the [poster](https://github.com/aoncevay/mt-peru/blob/main/peru-mt-poster.pdf) or in the [paper](https://www.aclweb.org/anthology/2021.americasnlp-1.22).
 
 ## Abstract
 
