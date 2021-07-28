@@ -13,7 +13,7 @@ Yoel Olivares sutiyoq runam nin: “Imapas pandemia nisqaqa qayakuqllam karqa, c
 Yachachiqkunapa llamkayninkuqa richkanmi, chaymi tanteananku karqa chayllaraq lloqsimuq aparatokunata yachanankupaq, yanapakunankupaq hinaspa llamkanaykupaqpas, astawan llamkanaykupaqmi nin: “Pipapas tiemponchikqa manam kapuwanchu, wakinmi ichaqa mana yanapakunchu ”, nispa.
 ```
 
-### Traducción automática de Español a Quechua sureño
+### Traducción automática de Quechua sureño a Español
 Texto de entrada: https://elcomercio.pe/corresponsales-escolares/historias/sasachaukuy-kay-yachachiy-karumanta-apurimac-noticia/?ref=ecr
 ```
 Fue difícil enseñarle desde lejos.
