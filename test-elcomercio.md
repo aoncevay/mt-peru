@@ -12,6 +12,7 @@ Cuba sutiyuq iñiqmasinchikmi nin: “Warmachakunaqa manam Internetniyuqchu nita
 Yoel Olivares sutiyoq runam nin: “Imapas pandemia nisqaqa qayakuqllam karqa, chay celularqa karqa huk videota otaq videota apachinaykupaqmi, chaymi mana sapa kutichu chay ruwayta munarqaniku ”, nispa.
 Yachachiqkunapa llamkayninkuqa richkanmi, chaymi tanteananku karqa chayllaraq lloqsimuq aparatokunata yachanankupaq, yanapakunankupaq hinaspa llamkanaykupaqpas, astawan llamkanaykupaqmi nin: “Pipapas tiemponchikqa manam kapuwanchu, wakinmi ichaqa mana yanapakunchu ”, nispa.
 ```
+**chrF score = 20.60**
 
 ### Traducción automática de Quechua sureño a Español
 Texto de entrada: https://elcomercio.pe/corresponsales-escolares/historias/sasachaukuy-kay-yachachiy-karumanta-apurimac-noticia/?ref=ecr
@@ -27,5 +28,6 @@ La mayoría de los niños no tienen acceso a Internet, ni a las llamadas, ni a l
 “Esta enfermedad nos está envuelta en los pies, tal como dice Yoel Olivares, el gobernante de la antigüedad de Heel Olivares.
 El trabajo de los maestros es similar a lo que se hace en el campo de la educación, pues en el nuevo mundo de la tecnología se necesitan nuevas tecnologías, de modo que es más fácil que crezcan. “Todos los problemas los expulsamos, ya que no hay conectidumbres, no tienen acceso a las tribus, no tienen acceso a las suyas, dicen, no quieren que las familias se interesen en el nuevo mundo: “Ahora está
 ```
+**chrF score = 20.25**
 
-Modelo de traducción usado: https://aclanthology.org/2021.americasnlp-1.22/
+**Modelo de traducción usado: https://aclanthology.org/2021.americasnlp-1.22/**
